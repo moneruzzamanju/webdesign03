@@ -1,0 +1,13 @@
+.section-headline h2 {
+  display: inline-block;
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 80px;
+  position: relative;
+  text-transform: capitalize;
+}
+
+.headtext h3{
+	  margin-top: 50px;
+
+}
